@@ -1,0 +1,1 @@
+import{t as e}from"./indice-cliente.CvJy8-iX.js";var t=document.querySelector(`.gb__indice`);t&&getComputedStyle(t).position===`sticky`&&e(t,{limite:()=>innerHeight*.3});

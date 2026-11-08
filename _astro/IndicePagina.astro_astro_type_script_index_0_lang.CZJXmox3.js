@@ -1,0 +1,1 @@
+import{t as e}from"./indice-cliente.CvJy8-iX.js";var t=document.querySelector(`.pg__indice-lateral`);t&&e(t,{limite:()=>innerHeight*.3});

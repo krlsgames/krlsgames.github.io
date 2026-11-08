@@ -1,0 +1,1 @@
+import{t as e}from"./indice-cliente.CvJy8-iX.js";document.querySelectorAll(`nav.indice`).forEach(t=>e(t));

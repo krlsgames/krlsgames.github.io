@@ -1,0 +1,1 @@
+import{t as e}from"./indice-cliente.CvJy8-iX.js";var t=document.querySelector(`.indice__dentro`);if(t){let n=()=>{let e=t.scrollWidth-t.clientWidth-t.scrollLeft;t.classList.toggle(`indice__dentro--mas`,e>4)};e(t),t.addEventListener(`scroll`,n,{passive:!0}),window.addEventListener(`resize`,n),n()}
