@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./admin-cliente.DXZFR0sC.js";var n=document.querySelector(`.admin-cerrada`);n.querySelector(`[data-otra-clave]`).addEventListener(`click`,()=>{e(),location.reload()}),t(`${n.dataset.api??``}/api/admin/descargas`).catch(()=>document.documentElement.classList.add(`admin-ok`));
