@@ -1,2 +1,7 @@
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /bocetos/
+Disallow: /admin/
+Disallow: /reportar-error/contestar
+
+Sitemap: https://krlsgames.github.io/sitemap.xml
